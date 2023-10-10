@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\bin\Debug\net6.0\SegundaArvore.exe
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\bin\Debug\net6.0\SegundaArvore.deps.json
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\bin\Debug\net6.0\SegundaArvore.runtimeconfig.json
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\bin\Debug\net6.0\SegundaArvore.dll
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\bin\Debug\net6.0\SegundaArvore.pdb
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\obj\Debug\net6.0\SegundaArvore.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\obj\Debug\net6.0\SegundaArvore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\obj\Debug\net6.0\SegundaArvore.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\obj\Debug\net6.0\SegundaArvore.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\obj\Debug\net6.0\SegundaArvore.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\obj\Debug\net6.0\SegundaArvore.dll
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\obj\Debug\net6.0\refint\SegundaArvore.dll
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\obj\Debug\net6.0\SegundaArvore.pdb
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\obj\Debug\net6.0\SegundaArvore.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Arvore\SegundaArvore\SegundaArvore\obj\Debug\net6.0\ref\SegundaArvore.dll

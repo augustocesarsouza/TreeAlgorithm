@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\bin\Debug\net6.0\BTree.exe
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\bin\Debug\net6.0\BTree.deps.json
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\bin\Debug\net6.0\BTree.runtimeconfig.json
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\bin\Debug\net6.0\BTree.dll
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\bin\Debug\net6.0\BTree.pdb
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\obj\Debug\net6.0\BTree.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\obj\Debug\net6.0\BTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\obj\Debug\net6.0\BTree.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\obj\Debug\net6.0\BTree.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\obj\Debug\net6.0\BTree.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\obj\Debug\net6.0\BTree.dll
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\obj\Debug\net6.0\refint\BTree.dll
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\obj\Debug\net6.0\BTree.pdb
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\obj\Debug\net6.0\BTree.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Arvore\BTree\BTree\obj\Debug\net6.0\ref\BTree.dll

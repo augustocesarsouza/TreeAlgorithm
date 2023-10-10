@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\bin\Debug\net6.0\AvlTrees.exe
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\bin\Debug\net6.0\AvlTrees.deps.json
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\bin\Debug\net6.0\AvlTrees.runtimeconfig.json
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\bin\Debug\net6.0\AvlTrees.dll
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\bin\Debug\net6.0\AvlTrees.pdb
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\obj\Debug\net6.0\AvlTrees.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\obj\Debug\net6.0\AvlTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\obj\Debug\net6.0\AvlTrees.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\obj\Debug\net6.0\AvlTrees.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\obj\Debug\net6.0\AvlTrees.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\obj\Debug\net6.0\AvlTrees.dll
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\obj\Debug\net6.0\refint\AvlTrees.dll
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\obj\Debug\net6.0\AvlTrees.pdb
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\obj\Debug\net6.0\AvlTrees.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Arvore\AvlTrees\AvlTrees\obj\Debug\net6.0\ref\AvlTrees.dll

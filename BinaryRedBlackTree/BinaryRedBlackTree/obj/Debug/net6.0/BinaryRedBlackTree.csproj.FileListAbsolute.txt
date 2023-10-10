@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\obj\Debug\net6.0\BinaryRedBlackTree.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\obj\Debug\net6.0\BinaryRedBlackTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\obj\Debug\net6.0\BinaryRedBlackTree.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\obj\Debug\net6.0\BinaryRedBlackTree.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\obj\Debug\net6.0\BinaryRedBlackTree.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\bin\Debug\net6.0\BinaryRedBlackTree.exe
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\bin\Debug\net6.0\BinaryRedBlackTree.deps.json
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\bin\Debug\net6.0\BinaryRedBlackTree.runtimeconfig.json
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\bin\Debug\net6.0\BinaryRedBlackTree.dll
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\bin\Debug\net6.0\BinaryRedBlackTree.pdb
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\obj\Debug\net6.0\BinaryRedBlackTree.dll
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\obj\Debug\net6.0\refint\BinaryRedBlackTree.dll
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\obj\Debug\net6.0\BinaryRedBlackTree.pdb
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\obj\Debug\net6.0\BinaryRedBlackTree.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Arvore\BinaryRedBlackTree\BinaryRedBlackTree\obj\Debug\net6.0\ref\BinaryRedBlackTree.dll
